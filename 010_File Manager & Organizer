@@ -1,0 +1,25 @@
+010_File Organizer & Search
+010_File Manager & Organizer
+	Type				Code		Project/Name			Code		Type									
+	Articles			ART			KinX					KinX		Articles, Database, Encyclopedia
+	Blogs				BLOG		KINK Tales				Adult		Novels, Short, Long 
+	Poetry				POE			mindgasm				mindG		Essays, Op-Ed, Opinion, Long and Short 
+	Books				BOOK		Drunk Philosophy		DRUNK		Articles, Essays
+	Reports/Whitepapers	REP			TrueNorth				North		Journal, Auto Biography
+	Essays				ESS			Quickies				Quick		Micro Blog
+	Scripts				SCR			byGRIMM					GRIMM		Essays, Articles, Instructional
+	Journals			JRN
+	Notes				NOTE
+	Guides/Tutorials	GUIDE
+	Short Stories		STORY
+			
+Project Tags (Follow the format #p/name_of_project)
+	#p/KinX
+	#p/KinXTales
+	#p/TrueNorth
+	#p/QuickThought
+	#p/MindGasm
+	#p/byGRIMM
+	#p/InkCraft
+	#p/MasteryClass
+	#p/DrunkPhilosophy

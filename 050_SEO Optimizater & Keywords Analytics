@@ -1,0 +1,33 @@
+050_SEO Optimizer & Keywords Anaylytics
+		SEO_Management
+		├── Keywords
+		│   ├── Master_Lists
+		│   │   ├── short-tail_keywords.csv
+		│   │   ├── long-tail_keywords.csv
+		│   │   └── trending_keywords.csv
+		│   ├── By_Topic
+		│   └── Archived_Keywords
+		│       └── obsolete_keywords.csv
+		├── Tags
+		│   ├── Master_Tag_List
+		│   │   ├── tags_by_category.csv
+		│   │   └── frequently_used_tags.csv
+		│   ├── By_Platform
+		│   └── Archived_Tags
+		├── Meta_Data
+		│   ├── Meta_Descriptions
+		│   ├── Meta_Titles
+		│   │   └── optimized_titles.txt
+		│   ├── Meta_Templates
+		│       └── blog_meta_template.md
+		├── SEO_Reports
+		│   ├── Performance_Reports
+		│   │   └── keyword_performance.xlsx
+		│   ├── Competitor_Analysis
+		│   │   └── competitor_SEO_strategies.txt
+		│   ├── Search_Rankings
+		│   └── Archived_Reports
+		├── Content_Plans
+		│   └── keyword_content_map.xlsx
+		└── Archived_SEO_Data
+			└── retired_keywords_and_tags.xlsx
